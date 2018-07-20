@@ -1,0 +1,2 @@
+# myproject
+git_class
